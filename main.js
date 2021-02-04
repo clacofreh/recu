@@ -17,6 +17,8 @@ document.addEventListener('DOMContentLoaded', function() {
     var instancesModal = M.Modal.init(modal);
     var collapsible = document.querySelectorAll('.collapsible');
     var instancesCollapsible = M.Collapsible.init(collapsible);
+    var carousel = document.querySelectorAll('.carousel');
+    var instancesCarousel = M.Carousel.init(carousel);
   });
 
 console.log('Hola')

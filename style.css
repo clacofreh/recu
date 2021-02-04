@@ -38,3 +38,7 @@ body {
 .animate__animated.animate__bounce {
     --animate-duration: 3s;
   }
+
+.section-small{
+    margin-top: 200px;
+}
