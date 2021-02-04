@@ -1,12 +1,12 @@
 body {
     background-color:#dcedc8  ;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Slabo 27px', serif;
 }
 .back-card{
     background-color: rgba(0, 0, 0, 0.5);
 }
 #navbar{
-    font-family: 'Amatic SC', cursive;}
+    font-family: 'Slabo 27px', serif;
 #Logo{
     font-family: 'Big Shoulders Display', cursive;
 }
